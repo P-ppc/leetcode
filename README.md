@@ -6,4 +6,4 @@ All solutions will be accepted!
 |:-|:-|:-|:-|
 |771|[Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/description/)|[java/py/js](./algorithms/JewelsAndStones)|Easy|
 |657|[Judge Route Circle](https://leetcode-cn.com/problems/judge-route-circle/description/)|[java/py/js](./algorithms/JudgeRouteCircle)|Easy|
-
+|461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/description/)|[java/py/js](./algorithms/HammingDistance)|Easy|
