@@ -8,3 +8,4 @@ All solutions will be accepted!
 |657|[Judge Route Circle](https://leetcode-cn.com/problems/judge-route-circle/description/)|[java/py/js](./algorithms/JudgeRouteCircle)|Easy|
 |461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/description/)|[java/py/js](./algorithms/HammingDistance)|Easy|
 |476|[Number Complement](https://leetcode-cn.com/problems/number-complement/description/)|[java/py/js](./algorithms/NumberComplement)|Easy|
+|728|[Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/description/)|[java/py/js](./algorithms/SelfDividingNumbers)|Easy|
