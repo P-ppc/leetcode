@@ -10,3 +10,4 @@ All solutions will be accepted!
 |476|[Number Complement](https://leetcode-cn.com/problems/number-complement/description/)|[java/py/js](./algorithms/NumberComplement)|Easy|
 |728|[Self Dividing Numbers](https://leetcode-cn.com/problems/self-dividing-numbers/description/)|[java/py/js](./algorithms/SelfDividingNumbers)|Easy|
 |804|[Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/description/)|[java/py/js](./algorithms/UniqueMorseCodeWords)|Easy|
+|500|[Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/description/)|[java/py/js](./algorithms/KeyboardRow)|Easy|
