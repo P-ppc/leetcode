@@ -14,3 +14,4 @@ All solutions will be accepted!
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|[java/py/js](./algorithms/ReverseString)|Easy|
 |292|[Nim Game](https://leetcode-cn.com/problems/nim-game/description/)|[java/py/js](./algorithms/NimGame)|Easy|
 |557|[Reverse Words In A String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/)|[java/py/js](./algorithms/ReverseWordsInAStringIII)|Easy|
+|104|[Maximum Depth Of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)|[java/py/js](./algorithms/MaximumDepthOfBinaryTree)|Easy|
