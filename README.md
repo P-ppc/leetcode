@@ -15,3 +15,4 @@ All solutions will be accepted!
 |292|[Nim Game](https://leetcode-cn.com/problems/nim-game/description/)|[java/py/js](./algorithms/NimGame)|Easy|
 |557|[Reverse Words In A String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/)|[java/py/js](./algorithms/ReverseWordsInAStringIII)|Easy|
 |104|[Maximum Depth Of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)|[java/py/js](./algorithms/MaximumDepthOfBinaryTree)|Easy|
+|617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[java/py/js](./algorithms/MergeTwoBinaryTrees)|Easy|
