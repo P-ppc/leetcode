@@ -1,2 +1,2 @@
 # Hamming Distance
-use bitwise to solve this problem
+Use bitwise to solve this problem
