@@ -12,3 +12,4 @@ All solutions will be accepted!
 |804|[Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/description/)|[java/py/js](./algorithms/UniqueMorseCodeWords)|Easy|
 |500|[Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/description/)|[java/py/js](./algorithms/KeyboardRow)|Easy|
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|[java/py/js](./algorithms/ReverseString)|Easy|
+|292|[Nim Game](https://leetcode-cn.com/problems/nim-game/description/)|[java/py/js](./algorithms/NimGame)|Easy|
