@@ -17,3 +17,4 @@ All solutions will be accepted!
 |104|[Maximum Depth Of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)|[java/py/js](./algorithms/MaximumDepthOfBinaryTree)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[java/py/js](./algorithms/MergeTwoBinaryTrees)|Easy|
 |226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/description/)|[java/py/js]|(./algorithms/InvertBinaryTree)|Easy|
+|693|[Binary Number With Alternating Bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/)|[java/py/js](./algorithms/BinaryNumberWithAlternatingBits)|Easy|
