@@ -21,3 +21,4 @@ All solutions will be accepted!
 |108|[Convert Sorted Array To Binary Search Tree](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[java/py/js](./algorithms/ConvertSortedArrayToBinarySearchTree)|Easy|
 |561|[Array Partition I](https://leetcode-cn.com/problems/array-partition-i/description/)|[java/py/js](./algorithms/ArrayPartitionI)|Easy|
 |463|[Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/description/)|[java/py/js](./algorithms/IslandPerimeter)|Easy|
+|821|[Shortest Distance To A Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/)|[java/py/js](./algorithms/ShortestDistanceToACharacter)|Easy|
