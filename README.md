@@ -22,3 +22,4 @@ All solutions will be accepted!
 |561|[Array Partition I](https://leetcode-cn.com/problems/array-partition-i/description/)|[java/py/js](./algorithms/ArrayPartitionI)|Easy|
 |463|[Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/description/)|[java/py/js](./algorithms/IslandPerimeter)|Easy|
 |821|[Shortest Distance To A Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/)|[java/py/js](./algorithms/ShortestDistanceToACharacter)|Easy|
+|371|[Sum Of Two Integers](https://leetcode-cn.com/problems/sum-of-two-integers/description/)|[java/py/js](./algorithms/SumOfTwoIntegers)|Easy|
