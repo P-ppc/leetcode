@@ -25,3 +25,4 @@ All solutions will be accepted!
 |371|[Sum Of Two Integers](https://leetcode-cn.com/problems/sum-of-two-integers/description/)|[java/py/js](./algorithms/SumOfTwoIntegers)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/description/)|[java/py/js](./algorithms/ExcelSheetColumnNumber)|Easy|
 |13|[Roman To Integer](https://leetcode-cn.com/problems/roman-to-integer/description/)|[java/py/js](./algorithms/RomanToInteger)|Easy|
+|155|[Min Stack](https://leetcode-cn.com/problems/min-stack/description/)|[java/py/js](./algorithms/MinStack)|Easy|
