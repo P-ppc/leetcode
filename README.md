@@ -27,3 +27,4 @@ All solutions will be accepted!
 |13|[Roman To Integer](https://leetcode-cn.com/problems/roman-to-integer/description/)|[java/py/js](./algorithms/RomanToInteger)|Easy|
 |155|[Min Stack](https://leetcode-cn.com/problems/min-stack/description/)|[java/py/js](./algorithms/MinStack)|Easy|
 |232|[Implement Queue Using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/)|[java/py/js](./algorithms/ImplementQueueUsingStacks)|Easy|
+|225|[Implement Stack Using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/description/)|[java/py/js](./algorithms/ImplementStackUsingQueues)|Easy|
