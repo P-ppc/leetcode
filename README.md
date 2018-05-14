@@ -29,3 +29,4 @@ All solutions will be accepted!
 |232|[Implement Queue Using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/)|[java/py/js](./algorithms/ImplementQueueUsingStacks)|Easy|
 |225|[Implement Stack Using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/description/)|[java/py/js](./algorithms/ImplementStackUsingQueues)|Easy|
 |20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/description/)|[java/py/js](./algorithms/ValidParentheses)|Easy|
+|485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/description/)|[java/py/js](./algorithms/MaxConsecutiveOnes)|Easy|
