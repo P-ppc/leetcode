@@ -32,3 +32,4 @@ All solutions will be accepted!
 |485|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/description/)|[java/py/js](./algorithms/MaxConsecutiveOnes)|Easy|
 |191|[Number Of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/description/)|[java/py/js](./algorithms/NumberOf1Bits)|Easy|
 |258|[Add Digits](https://leetcode-cn.com/problems/add-digits/description/)|[java/py/js](./algorithms/AddDigits)|Easy|
+|520|[Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/)|[java/py/js](./algorithms/DetectCaptial)|Easy|
