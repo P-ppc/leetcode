@@ -38,3 +38,4 @@ All solutions will be accepted!
 
 # Database
 |596|[Big Countries](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./database/BigCountries)|Easy|
+|182|[Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/description/)|[mysql](./algorithms/DuplicateEmails)|Easy|
