@@ -34,3 +34,4 @@ All solutions will be accepted!
 |258|[Add Digits](https://leetcode-cn.com/problems/add-digits/description/)|[java/py/js](./algorithms/AddDigits)|Easy|
 |520|[Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/)|[java/py/js](./algorithms/DetectCaptial)|Easy|
 |682|[BaseBall Game](https://leetcode-cn.com/problems/baseball-game/description/)|[java/py/js](./algorithms/BaseBallGame)|Easy|
+|404|[Sum Of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/description/)|[java/py/js](./algorithms/SumOfLeftLeaves)|Easy|
