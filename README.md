@@ -37,6 +37,7 @@ All solutions will be accepted!
 |404|[Sum Of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/description/)|[java/py/js](./algorithms/SumOfLeftLeaves)|Easy|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/)|[java/py/js](./algorithms/MoveZeroes)|Easy|
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/description/)|[java/py/js](./algorithms/SingleNumber)|Easy|
+|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/)|[java/py/js](./algorithms/TwoSum)|Easy|
 
 # Database
 |596|[Big Countries](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./database/BigCountries)|Easy|
