@@ -35,6 +35,7 @@ All solutions will be accepted!
 |520|[Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/)|[java/py/js](./algorithms/DetectCaptial)|Easy|
 |682|[BaseBall Game](https://leetcode-cn.com/problems/baseball-game/description/)|[java/py/js](./algorithms/BaseBallGame)|Easy|
 |404|[Sum Of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/description/)|[java/py/js](./algorithms/SumOfLeftLeaves)|Easy|
+|283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/)|[java/py/js](./algorithms/MoveZeroes)|Easy|
 
 # Database
 |596|[Big Countries](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./database/BigCountries)|Easy|
