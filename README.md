@@ -39,6 +39,7 @@ All solutions will be accepted!
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/description/)|[java/py/js](./algorithms/SingleNumber)|Easy|
 |1|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/)|[java/py/js](./algorithms/TwoSum)|Easy|
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/)|[java/py/js](./algorithms/PalindromeNumber)|Easy|
+|389|[Find The Difference](https://leetcode-cn.com/problems/find-the-difference/description/)|[java/py/js](./algorithms/FindTheDifference)|Easy|
 
 # Database
 |596|[Big Countries](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./database/BigCountries)|Easy|
