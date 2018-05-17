@@ -43,5 +43,7 @@ All solutions will be accepted!
 |94|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[java/py/js](./algorithms/BinaryTreeInorderTraversal)|Medium|
 
 # Database
+|#|Title|Solution|Difficulty|
+|:-|:-|:-|:-|
 |596|[Big Countries](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./database/BigCountries)|Easy|
 |182|[Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/description/)|[mysql](./algorithms/DuplicateEmails)|Easy|
