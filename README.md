@@ -41,6 +41,7 @@ All solutions will be accepted!
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/)|[java/py/js](./algorithms/PalindromeNumber)|Easy|
 |389|[Find The Difference](https://leetcode-cn.com/problems/find-the-difference/description/)|[java/py/js](./algorithms/FindTheDifference)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/)|[java/py/js](./algorithms/BinaryTreeInorderTraversal)|Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/)|[java/py/js](./algorithms/BinaryTreePreorderTraversal)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
