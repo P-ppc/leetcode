@@ -44,6 +44,7 @@ All solutions will be accepted!
 |144|[Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/)|[java/py/js](./algorithms/BinaryTreePreorderTraversal)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/)|[java/py/js](./algorithms/BinaryTreePostorderTraversal)|Hard|
 |231|[Power Of Two](https://leetcode-cn.com/problems/power-of-two/description/)|[java/py/js](./algorithms/PowerOfTwo)|Easy|
+|38|[Count And Say](https://leetcode-cn.com/problems/count-and-say/description/)|[java/py/js](./algorithms/CountAndSay)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
