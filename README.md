@@ -47,6 +47,7 @@ All solutions will be accepted!
 |38|[Count And Say](https://leetcode-cn.com/problems/count-and-say/description/)|[java/py/js](./algorithms/CountAndSay)|Easy|
 |383|[Ransom Note](https://leetcode-cn.com/problems/ransom-note/description/)|[java/py/js](./algorithms/RansomNote)|Easy|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/)|[java/py/js](./algorithms/ContainsDuplicate)|Easy|
+|219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/)|[java/py/js](./algorithms/ContainsDuplicateII)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
