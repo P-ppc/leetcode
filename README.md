@@ -48,6 +48,7 @@ All solutions will be accepted!
 |383|[Ransom Note](https://leetcode-cn.com/problems/ransom-note/description/)|[java/py/js](./algorithms/RansomNote)|Easy|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/)|[java/py/js](./algorithms/ContainsDuplicate)|Easy|
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/)|[java/py/js](./algorithms/ContainsDuplicateII)|Easy|
+|27|[Remove Element](https://leetcode-cn.com/problems/remove-element/description/)|[java/py/js](./algorithms/RemoveElement)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
