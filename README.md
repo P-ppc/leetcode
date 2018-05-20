@@ -49,6 +49,7 @@ All solutions will be accepted!
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/)|[java/py/js](./algorithms/ContainsDuplicate)|Easy|
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/)|[java/py/js](./algorithms/ContainsDuplicateII)|Easy|
 |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/description/)|[java/py/js](./algorithms/RemoveElement)|Easy|
+|100|[Same Tree](https://leetcode-cn.com/problems/same-tree/description/)|[java/py/js](./algorithms/SameTree)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
