@@ -56,6 +56,7 @@ All solutions will be accepted!
 |82|[Remove Duplicates From Sorted List II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[java/py/js](./algorithms/RemoveDuplicatesFromSortedListII)|Medium|
 |811|[Subdomain Visit Count](https://leetcode-cn.com/problems/subdomain-visit-count/description/)|[java/py/js](./algorithms/SubdomainVisitCount)|Easy|
 |637|[Average Of Levels In Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/)|[java/py/js](./algorithms/AverageOfLevelsInBinaryTree)|Easy|
+|118|[Pascals Triangle](https://leetcode-cn.com/problems/pascals-triangle/description/)|[java/py/js](./algorithms/PascalsTriangle)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
