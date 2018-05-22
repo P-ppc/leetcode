@@ -59,6 +59,7 @@ All solutions will be accepted!
 |118|[Pascals Triangle](https://leetcode-cn.com/problems/pascals-triangle/description/)|[java/py/js](./algorithms/PascalsTriangle)|Easy|
 |303|[Range Sum Query Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/description/)|[java/py/js](./algorithms/RangeSumQueryImmutable)|Easy|
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|[java/py/js](./algorithms/FizzBuzz)|Easy|
+|257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/description/)|[java/py/js](./algorithms/BinaryTreePaths)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
