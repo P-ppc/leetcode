@@ -58,6 +58,7 @@ All solutions will be accepted!
 |637|[Average Of Levels In Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/)|[java/py/js](./algorithms/AverageOfLevelsInBinaryTree)|Easy|
 |118|[Pascals Triangle](https://leetcode-cn.com/problems/pascals-triangle/description/)|[java/py/js](./algorithms/PascalsTriangle)|Easy|
 |303|[Range Sum Query Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/description/)|[java/py/js](./algorithms/RangeSumQueryImmutable)|Easy|
+|412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|[java/py/js](./algorithms/FizzBuzz)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
