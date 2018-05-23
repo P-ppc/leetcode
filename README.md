@@ -62,6 +62,7 @@ All solutions will be accepted!
 |303|[Range Sum Query Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/description/)|[java/py/js](./algorithms/RangeSumQueryImmutable)|Easy|
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|[java/py/js](./algorithms/FizzBuzz)|Easy|
 |257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/description/)|[java/py/js](./algorithms/BinaryTreePaths)|Easy|
+|496|[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/description/)|[java/py/js](./algorithms/NextGeraterElementI)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
