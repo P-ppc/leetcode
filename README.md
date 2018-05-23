@@ -44,6 +44,7 @@ All solutions will be accepted!
 |144|[Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/)|[java/py/js](./algorithms/BinaryTreePreorderTraversal)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/)|[java/py/js](./algorithms/BinaryTreePostorderTraversal)|Hard|
 |231|[Power Of Two](https://leetcode-cn.com/problems/power-of-two/description/)|[java/py/js](./algorithms/PowerOfTwo)|Easy|
+|342|[Power Of Four](https://leetcode-cn.com/problems/power-of-four/description/)|[java/py/js](./algorithms/PowerOfFour)|Easy|
 |38|[Count And Say](https://leetcode-cn.com/problems/count-and-say/description/)|[java/py/js](./algorithms/CountAndSay)|Easy|
 |383|[Ransom Note](https://leetcode-cn.com/problems/ransom-note/description/)|[java/py/js](./algorithms/RansomNote)|Easy|
 |217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/)|[java/py/js](./algorithms/ContainsDuplicate)|Easy|
