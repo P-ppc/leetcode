@@ -64,6 +64,7 @@ All solutions will be accepted!
 |257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/description/)|[java/py/js](./algorithms/BinaryTreePaths)|Easy|
 |496|[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/description/)|[java/py/js](./algorithms/NextGeraterElementI)|Easy|
 |766|[Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|[java/py/js](./algorithms/ToeplitzMatrix)|Easy|
+|669|[Trim A Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/description/)|[java/py/js](./algorithms/TrimABinarySearchTree)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
