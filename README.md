@@ -66,6 +66,7 @@ All solutions will be accepted!
 |766|[Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|[java/py/js](./algorithms/ToeplitzMatrix)|Easy|
 |669|[Trim A Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/description/)|[java/py/js](./algorithms/TrimABinarySearchTree)|Easy|
 |806|[Number Of Lines To Write String](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/)|[java/py/js](./algorithms/NumberOfLinesToWriteString)|Easy|
+|566|[Reshape The Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/description/)|[java/py/js](./algorithms/ReshapeTheMatrix)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
