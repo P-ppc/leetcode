@@ -63,6 +63,7 @@ All solutions will be accepted!
 |412|[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/)|[java/py/js](./algorithms/FizzBuzz)|Easy|
 |257|[Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/description/)|[java/py/js](./algorithms/BinaryTreePaths)|Easy|
 |496|[Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/description/)|[java/py/js](./algorithms/NextGeraterElementI)|Easy|
+|766|[Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/description/)|[java/py/js](./algorithms/ToeplitzMatrix)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
