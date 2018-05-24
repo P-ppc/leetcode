@@ -68,6 +68,7 @@ All solutions will be accepted!
 |806|[Number Of Lines To Write String](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/)|[java/py/js](./algorithms/NumberOfLinesToWriteString)|Easy|
 |566|[Reshape The Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/description/)|[java/py/js](./algorithms/ReshapeTheMatrix)|Easy|
 |575|[Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/description/)|[java/py/js](./algorithms/DistributeCandies)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[java/py/js](./algorithms/MergeTwoSortedLists)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
