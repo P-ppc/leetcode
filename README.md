@@ -71,6 +71,7 @@ All solutions will be accepted!
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[java/py/js](./algorithms/MergeTwoSortedLists)|Easy|
 |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/)|[java/py/js](./algorithms/MergeSortedArray)|Easy|
 |530|[Minimum Absolute Difference In Bst](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/)|[java/py/js](./algorithms/MinimumAbsoluteDifferenceInBst)|Easy|
+|119|[Pascals Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/)|[java/py/js](./algorithms/PascalsTriangleII)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
