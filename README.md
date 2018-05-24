@@ -70,6 +70,7 @@ All solutions will be accepted!
 |575|[Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/description/)|[java/py/js](./algorithms/DistributeCandies)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[java/py/js](./algorithms/MergeTwoSortedLists)|Easy|
 |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/)|[java/py/js](./algorithms/MergeSortedArray)|Easy|
+|530|[Minimum Absolute Difference In Bst](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/)|[java/py/js](./algorithms/MinimumAbsoluteDifferenceInBst)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
