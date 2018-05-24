@@ -69,6 +69,7 @@ All solutions will be accepted!
 |566|[Reshape The Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/description/)|[java/py/js](./algorithms/ReshapeTheMatrix)|Easy|
 |575|[Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/description/)|[java/py/js](./algorithms/DistributeCandies)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[java/py/js](./algorithms/MergeTwoSortedLists)|Easy|
+|88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/)|[java/py/js](./algorithms/MergeSortedArray)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
