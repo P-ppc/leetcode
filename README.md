@@ -73,6 +73,7 @@ All solutions will be accepted!
 |530|[Minimum Absolute Difference In Bst](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/)|[java/py/js](./algorithms/MinimumAbsoluteDifferenceInBst)|Easy|
 |119|[Pascals Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/)|[java/py/js](./algorithms/PascalsTriangleII)|Easy|
 |690|[Employee Importance](https://leetcode-cn.com/problems/employee-importance/description/)|[java/py](./algorithms/EmployeeImportance)|Easy|
+|169|[Majority Element](https://leetcode-cn.com/problems/majority-element/description/)|[java/py/js](./algorithms/MajorityElement)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
