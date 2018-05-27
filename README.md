@@ -79,6 +79,7 @@ All solutions will be accepted!
 |349|[Intersection Of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/)|[java/py/js](./algorithms/IntersectionOfTwoArrays)|Easy|
 |268|[Missing Number](https://leetcode-cn.com/problems/missing-number/description/)|[java/py/js](./algorithms/MissingNumber)|Easy|
 |788|[Rotated Digits](https://leetcode-cn.com/problems/rotated-digits/description/)|[java/py/js](./algorithms/RotatedDigits)|Easy|
+|695|[Max Area Of Island](https://leetcode-cn.com/problems/max-area-of-island/description/)|[java/py/js](./algorithms/MaxAreaOfIsland)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
