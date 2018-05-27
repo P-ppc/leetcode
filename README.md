@@ -82,6 +82,7 @@ All solutions will be accepted!
 |695|[Max Area Of Island](https://leetcode-cn.com/problems/max-area-of-island/description/)|[java/py/js](./algorithms/MaxAreaOfIsland)|Easy|
 |762|[Prime Number Of Set Bits In Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|[java/py/js](./algorithms/PrimeNumberOfSetBitsInBinaryRepresentation)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/)|[java/py/js](./algorithms/LongestUncommonSubsequenceI)|Easy|
+|812|[Largest Triangle Area](https://leetcode-cn.com/problems/largest-triangle-area/description/)|[java/py/js](./algorithms/LargestTriangleArea)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
