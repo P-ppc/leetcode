@@ -83,6 +83,7 @@ All solutions will be accepted!
 |762|[Prime Number Of Set Bits In Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|[java/py/js](./algorithms/PrimeNumberOfSetBitsInBinaryRepresentation)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/)|[java/py/js](./algorithms/LongestUncommonSubsequenceI)|Easy|
 |812|[Largest Triangle Area](https://leetcode-cn.com/problems/largest-triangle-area/description/)|[java/py/js](./algorithms/LargestTriangleArea)|Easy|
+|606|[Construct String From Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/)|[java/py/js](./algorithms/ConstructStringFromBinaryTree)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
