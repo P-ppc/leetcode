@@ -86,6 +86,7 @@ All solutions will be accepted!
 |606|[Construct String From Binary Tree](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/)|[java/py/js](./algorithms/ConstructStringFromBinaryTree)|Easy|
 |202|[Happy Number](https://leetcode-cn.com/problems/happy-number/description/)|[java/py/js](./algorithms/HappyNumber)|Easy|
 |563|[Binary Tree Tilt](https://leetcode-cn.com/problems/binary-tree-tilt/description/)|[java/py/js](./algorithms/BinaryTreeTilt)|Easy|
+|696|[Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings/description/)|[java/py/js](./algorithms/CountBinarySubstrings)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
