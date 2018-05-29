@@ -87,6 +87,7 @@ All solutions will be accepted!
 |202|[Happy Number](https://leetcode-cn.com/problems/happy-number/description/)|[java/py/js](./algorithms/HappyNumber)|Easy|
 |563|[Binary Tree Tilt](https://leetcode-cn.com/problems/binary-tree-tilt/description/)|[java/py/js](./algorithms/BinaryTreeTilt)|Easy|
 |696|[Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings/description/)|[java/py/js](./algorithms/CountBinarySubstrings)|Easy|
+|121|[Best Time To Buy And Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)|[java/py/js](./algorithms/BestTimeToBuyAndSellStock)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
