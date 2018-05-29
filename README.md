@@ -89,6 +89,7 @@ All solutions will be accepted!
 |696|[Count Binary Substrings](https://leetcode-cn.com/problems/count-binary-substrings/description/)|[java/py/js](./algorithms/CountBinarySubstrings)|Easy|
 |121|[Best Time To Buy And Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/)|[java/py/js](./algorithms/BestTimeToBuyAndSellStock)|Easy|
 |599|[Minimum Index Sum Of Two Lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/description/)|[java/py/js](./algorithms/MinimumIndexSumOfTwoLists)|Easy|
+|551|[Student Attendance Record I](https://leetcode-cn.com/problems/student-attendance-record-i/description/)|[java/py/js](./algorithms/StudentAttendanceRecordI)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
