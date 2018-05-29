@@ -92,6 +92,7 @@ All solutions will be accepted!
 |551|[Student Attendance Record I](https://leetcode-cn.com/problems/student-attendance-record-i/description/)|[java/py/js](./algorithms/StudentAttendanceRecordI)|Easy|
 |538|[Convert Bst To Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/)|[java/py/js](./algorithms/ConvertBstToGreaterTree)|Easy|
 |235|[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[java/py/js](./algorithms/LowestCommonAncestorOfABinarySearchTree)|Easy|
+|697|[Degree Of An Array](https://leetcode-cn.com/problems/degree-of-an-array/description/)|[java/py/js](./algorithms/DegreeOfAnArray)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
