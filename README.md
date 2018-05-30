@@ -96,6 +96,7 @@ All solutions will be accepted!
 |671|[Second Minimum Node In A Binary Tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/description/)|[java/py/js](./algorithms/SecondMinimunNodeInABinaryTree)|Easy|
 |242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/description/)|[java/py/js](./algorithms/ValidAnagram)|Easy|
 |784|[Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/description/)|[java/py/js](./algorithms/LetterCasePermutation)|Easy|
+|453|[Minimum Moves To Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/description/)|[java/py/js](./algorithms/MinimumMovesToEqualArrayElements)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
