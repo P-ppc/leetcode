@@ -94,6 +94,7 @@ All solutions will be accepted!
 |235|[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[java/py/js](./algorithms/LowestCommonAncestorOfABinarySearchTree)|Easy|
 |697|[Degree Of An Array](https://leetcode-cn.com/problems/degree-of-an-array/description/)|[java/py/js](./algorithms/DegreeOfAnArray)|Easy|
 |671|[Second Minimum Node In A Binary Tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/description/)|[java/py/js](./algorithms/SecondMinimunNodeInABinaryTree)|Easy|
+|242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/description/)|[java/py/js](./algorithms/ValidAnagram)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
