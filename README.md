@@ -95,6 +95,7 @@ All solutions will be accepted!
 |697|[Degree Of An Array](https://leetcode-cn.com/problems/degree-of-an-array/description/)|[java/py/js](./algorithms/DegreeOfAnArray)|Easy|
 |671|[Second Minimum Node In A Binary Tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/description/)|[java/py/js](./algorithms/SecondMinimunNodeInABinaryTree)|Easy|
 |242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/description/)|[java/py/js](./algorithms/ValidAnagram)|Easy|
+|784|[Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/description/)|[java/py/js](./algorithms/LetterCasePermutation)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
