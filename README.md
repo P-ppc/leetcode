@@ -98,6 +98,7 @@ All solutions will be accepted!
 |242|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/description/)|[java/py/js](./algorithms/ValidAnagram)|Easy|
 |784|[Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/description/)|[java/py/js](./algorithms/LetterCasePermutation)|Easy|
 |453|[Minimum Moves To Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/description/)|[java/py/js](./algorithms/MinimumMovesToEqualArrayElements)|Easy|
+|661|[Image Smoother](https://leetcode-cn.com/problems/image-smoother/description/)|[java/py/js](./algorithms/ImageSmoother)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
