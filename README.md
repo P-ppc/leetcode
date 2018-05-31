@@ -99,6 +99,7 @@ All solutions will be accepted!
 |784|[Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/description/)|[java/py/js](./algorithms/LetterCasePermutation)|Easy|
 |453|[Minimum Moves To Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/description/)|[java/py/js](./algorithms/MinimumMovesToEqualArrayElements)|Easy|
 |661|[Image Smoother](https://leetcode-cn.com/problems/image-smoother/description/)|[java/py/js](./algorithms/ImageSmoother)|Easy|
+|598|[Range Addition II](https://leetcode-cn.com/problems/range-addition-ii/description/)|[java/py/js](./algorithms/RangeAdditionII)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
