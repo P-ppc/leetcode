@@ -103,6 +103,7 @@ All solutions will be accepted!
 |492|[Construct The Rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/description/)|[java/py/js]|(./algorithms/ConstructTheRectangle)|Easy|
 |447|[Number Of Boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs/description/)|[java/py/js](./algorithms/NumberOfBoomerangs)|Easy|
 |824|[Goat Latin](https://leetcode-cn.com/problems/goat-latin/description/)|[java/py/js](./algorithms/GoatLatin)|Easy|
+|206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/description/)|[java/py/js](./algorithms/ReverseLinkedList)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
