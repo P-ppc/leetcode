@@ -100,7 +100,7 @@ All solutions will be accepted!
 |453|[Minimum Moves To Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/description/)|[java/py/js](./algorithms/MinimumMovesToEqualArrayElements)|Easy|
 |661|[Image Smoother](https://leetcode-cn.com/problems/image-smoother/description/)|[java/py/js](./algorithms/ImageSmoother)|Easy|
 |598|[Range Addition II](https://leetcode-cn.com/problems/range-addition-ii/description/)|[java/py/js](./algorithms/RangeAdditionII)|Easy|
-|492|[Construct The Rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/description/)|[java/py/js]|(./algorithms/ConstructTheRectangle)|Easy|
+|492|[Construct The Rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/description/)|[java/py/js](./algorithms/ConstructTheRectangle)|Easy|
 |447|[Number Of Boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs/description/)|[java/py/js](./algorithms/NumberOfBoomerangs)|Easy|
 |824|[Goat Latin](https://leetcode-cn.com/problems/goat-latin/description/)|[java/py/js](./algorithms/GoatLatin)|Easy|
 |206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/description/)|[java/py/js](./algorithms/ReverseLinkedList)|Easy|
