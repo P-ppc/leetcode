@@ -109,6 +109,7 @@ All solutions will be accepted!
 |70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/)|[java/py/js](./algorithms/ClimbingStairs)|Easy|
 |448|[Find All Numbers Disappeared In An Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[java/py/js](./algorithms/FindAllNumbersDisappearedInAnArray)|Easy|
 |409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/description/)|[java/py/js](./algorithms/LongestPalindrome)|Easy|
+|35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/description/)|[java/py/js](./algorithms/SearchInsertPosition)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
