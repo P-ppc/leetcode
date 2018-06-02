@@ -106,6 +106,7 @@ All solutions will be accepted!
 |206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/description/)|[java/py/js](./algorithms/ReverseLinkedList)|Easy|
 |733|[Flood Fill](https://leetcode-cn.com/problems/flood-fill/description/)|[java/py/js](./algorithms/FloodFill)|Easy|
 |110|[Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/description/)|[java/py/js](./algorithms/BalancedBinaryTree)|Easy|
+|70|[Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/)|[java/py/js](./algorithms/ClimbingStairs)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
