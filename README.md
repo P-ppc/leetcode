@@ -112,6 +112,7 @@ All solutions will be accepted!
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/description/)|[java/py/js](./algorithms/SearchInsertPosition)|Easy|
 |278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/description/)|[java/py/js](./algorithms/FirstBadVersion)|Easy|
 |101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/description/)|[java/py/js](./algorithms/SymmetricTree)|Easy|
+|506|[Relative Ranks](https://leetcode-cn.com/problems/relative-ranks/description/)|[java/py/js](./algorithms/RelativeRanks)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
