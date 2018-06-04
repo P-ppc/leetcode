@@ -118,6 +118,7 @@ All solutions will be accepted!
 |744|[Find Smallest Letter Greater Than Target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/)|[java/py/js](./algorithms/FindSmallestLetterGreaterThanTarget)|Easy|
 |203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/description/)|[java/py/js](./algorithms/RemoveLinkedListElements)|Easy|
 |237|[Delete Node In A Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/)|[java/py/js](./algorithms/DeleteNodeInALinkedList)|Easy|
+|405|[Convert A Number To Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)|[java/py/js](./algorithms/ConvertANumberToHexadecimal)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
