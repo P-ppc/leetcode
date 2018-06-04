@@ -119,6 +119,7 @@ All solutions will be accepted!
 |203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/description/)|[java/py/js](./algorithms/RemoveLinkedListElements)|Easy|
 |237|[Delete Node In A Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/)|[java/py/js](./algorithms/DeleteNodeInALinkedList)|Easy|
 |405|[Convert A Number To Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)|[java/py/js](./algorithms/ConvertANumberToHexadecimal)|Easy|
+|796|[Rotate String](https://leetcode-cn.com/problems/rotate-string/description/)|[java/py/js](./algorithms/RotateString)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
