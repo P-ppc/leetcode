@@ -122,6 +122,7 @@ All solutions will be accepted!
 |796|[Rotate String](https://leetcode-cn.com/problems/rotate-string/description/)|[java/py/js](./algorithms/RotateString)|Easy|
 |844|[Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/description/)|[java/py/js](./algorithms/BackspaceStringCompare)|Easy|
 |26|[Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)|[java/py/js](./algorithms/RemoveDuplicatesFromSortedArray)|Easy|
+|112|[Path Sum](https://leetcode-cn.com/problems/path-sum/description/)|[java/py/js](./algorithms/PathSum)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
