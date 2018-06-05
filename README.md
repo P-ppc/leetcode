@@ -120,6 +120,7 @@ All solutions will be accepted!
 |237|[Delete Node In A Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/)|[java/py/js](./algorithms/DeleteNodeInALinkedList)|Easy|
 |405|[Convert A Number To Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/)|[java/py/js](./algorithms/ConvertANumberToHexadecimal)|Easy|
 |796|[Rotate String](https://leetcode-cn.com/problems/rotate-string/description/)|[java/py/js](./algorithms/RotateString)|Easy|
+|844|[Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/description/)|[java/py/js](./algorithms/BackspaceStringCompare)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
