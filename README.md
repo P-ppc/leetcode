@@ -125,6 +125,7 @@ All solutions will be accepted!
 |112|[Path Sum](https://leetcode-cn.com/problems/path-sum/description/)|[java/py/js](./algorithms/PathSum)|Easy|
 |263|[Ugly Number](https://leetcode-cn.com/problems/ugly-number/description/)|[java/py/js](./algorithms/UglyNumber)|Easy|
 |783|[Minimum Distance Between Bst Nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/description/)|[java/py/js](./algorithms/MinimumDistanceBetweenBstNodes)|Easy|
+|747|[Largest Number At Least Twice Of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/)|[java/py/js](./algorithms/LargestNumberAtLeastTwiceOfOthers)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
