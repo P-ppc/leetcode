@@ -135,6 +135,7 @@ All solutions will be accepted!
 |830|[Positions Of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/description/)|[java/py/js](./algorithms/PositionsOfLargeGroups)|Easy|
 |572|[Subtree Of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/description/)|[java/py/js](./algorithms/Subtree Of Another Tree)|Easy|
 |819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/description/)|[java/py/js](./algorithms/MostCommonWord)|Easy|
+|172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/)|[java/py/js](./algorithms/FactorialTrailingZeroes)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
