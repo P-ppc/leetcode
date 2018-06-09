@@ -136,6 +136,7 @@ All solutions will be accepted!
 |572|[Subtree Of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/description/)|[java/py/js](./algorithms/Subtree Of Another Tree)|Easy|
 |819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/description/)|[java/py/js](./algorithms/MostCommonWord)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/)|[java/py/js](./algorithms/FactorialTrailingZeroes)|Easy|
+|290|[Word Pattern](https://leetcode-cn.com/problems/word-pattern/description/)|[java/py/js](./algorithms/WordPattern)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
