@@ -138,6 +138,7 @@ All solutions will be accepted!
 |172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/)|[java/py/js](./algorithms/FactorialTrailingZeroes)|Easy|
 |290|[Word Pattern](https://leetcode-cn.com/problems/word-pattern/description/)|[java/py/js](./algorithms/WordPattern)|Easy|
 |205|[Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/description/)|[java/py/js](./algorithms/IsomorphicStrings)|Easy|
+|125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/description/)|[java/py/js](./algorithms/ValidPalindrome)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
