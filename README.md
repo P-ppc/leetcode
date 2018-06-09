@@ -137,6 +137,7 @@ All solutions will be accepted!
 |819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/description/)|[java/py/js](./algorithms/MostCommonWord)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/)|[java/py/js](./algorithms/FactorialTrailingZeroes)|Easy|
 |290|[Word Pattern](https://leetcode-cn.com/problems/word-pattern/description/)|[java/py/js](./algorithms/WordPattern)|Easy|
+|205|[Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/description/)|[java/py/js](./algorithms/IsomorphicStrings)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
