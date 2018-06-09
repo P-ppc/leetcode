@@ -129,6 +129,7 @@ All solutions will be accepted!
 |747|[Largest Number At Least Twice Of Others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/)|[java/py/js](./algorithms/LargestNumberAtLeastTwiceOfOthers)|Easy|
 |455|[assign cookies](https://leetcode-cn.com/problems/assign-cookies/description/)|[java/py/js](./algorithms/AssignCookies)|Easy|
 |415|[Add Strings](https://leetcode-cn.com/problems/add-strings/description/)|[java/py/js](./algorithms/AddStrings)|Easy|
+|66|[Plus One](https://leetcode-cn.com/problems/plus-one/description/)|[java/py/js](./algorithms/PlusOne)|Easy|
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/description/)|[java/py/js](./algorithms/AddBinary)|Easy|
 |504|[Base 7](https://leetcode-cn.com/problems/base-7/description/)|[java/py/js](./algorithms/Base7)|Easy|
 |830|[Positions Of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/description/)|[java/py/js](./algorithms/PositionsOfLargeGroups)|Easy|
