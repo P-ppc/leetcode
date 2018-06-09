@@ -132,6 +132,7 @@ All solutions will be accepted!
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/description/)|[java/py/js](./algorithms/AddBinary)|Easy|
 |504|[Base 7](https://leetcode-cn.com/problems/base-7/description/)|[java/py/js](./algorithms/Base7)|Easy|
 |830|[Positions Of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/description/)|[java/py/js](./algorithms/PositionsOfLargeGroups)|Easy|
+|572|[Subtree Of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/description/)|[java/py/js](./algorithms/Subtree Of Another Tree)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
