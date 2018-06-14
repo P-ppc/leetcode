@@ -144,6 +144,7 @@ All solutions will be accepted!
 |628|[Maximum Product Of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/)|[java/py/js](./algorithms/MaximumProductOfThreeNumbers)|Easy|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/description/)|[java/py/js](./algorithms/FindPivotIndex)|Easy|
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/)|[java/py/js](./algorithms/MaximumSubarray)|Easy|
+|543|[Diameter Of Binary](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)|[java/py/js](./algorithms/DiameterOfBinary)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
