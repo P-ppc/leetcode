@@ -149,6 +149,7 @@ All solutions will be accepted!
 |198|[House Robber](https://leetcode-cn.com/problems/house-robber/description/)|[java/py/js](./algorithms/HouseRobber)|Easy|
 |111|[Minimum Depth Of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/description/)|[java/py/js](MinimumDepthOfBinaryTree)|Easy|
 |849|[Maximize Distance To Closest Person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/description/)|[java/py/js](./algorithms/MaximizeDistanceToClosestPerson)|Easy|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)|[java/py/js](./algorithms/LongestContinuousIncreasingSubsequence)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
