@@ -13,11 +13,17 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
-        node = None
+        tail = None
+        
         while head:
-            temp = ListNode(head.val)
-            temp.next = node
-            node = temp
-            head = head.next
-        return node
+            tail, head, tail.next = head, head.next, tail
+            ```
+            equals:
+            >>> temp = tail
+            >>> tail = head
+            >>> head = head.next
+            >>> tail.next = temp
+            ```
+            
+        return tail
 ```
