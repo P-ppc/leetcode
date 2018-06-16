@@ -146,6 +146,7 @@ All solutions will be accepted!
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/)|[java/py/js](./algorithms/MaximumSubarray)|Easy|
 |543|[Diameter Of Binary](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/)|[java/py/js](./algorithms/DiameterOfBinary)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/)|[java/py/js](./algorithms/MinCostClimbingStairs)|Easy|
+|198|[House Robber](https://leetcode-cn.com/problems/house-robber/description/)|[java/py/js](./algorithms/HouseRobber)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
