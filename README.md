@@ -148,6 +148,7 @@ All solutions will be accepted!
 |746|[Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/description/)|[java/py/js](./algorithms/MinCostClimbingStairs)|Easy|
 |198|[House Robber](https://leetcode-cn.com/problems/house-robber/description/)|[java/py/js](./algorithms/HouseRobber)|Easy|
 |111|[Minimum Depth Of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/description/)|[java/py/js](MinimumDepthOfBinaryTree)|Easy|
+|849|[Maximize Distance To Closest Person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/description/)|[java/py/js](./algorithms/MaximizeDistanceToClosestPerson)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
