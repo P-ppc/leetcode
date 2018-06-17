@@ -151,6 +151,7 @@ All solutions will be accepted!
 |849|[Maximize Distance To Closest Person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/description/)|[java/py/js](./algorithms/MaximizeDistanceToClosestPerson)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/description/)|[java/py/js](./algorithms/LongestContinuousIncreasingSubsequence)|Easy|
 |234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/description/)|[java/py/js](./algorithms/PalindromeLinkedList)|Easy|
+|414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/description/)|[java/py/js](./algorithms/ThirdMaximumNumber)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
