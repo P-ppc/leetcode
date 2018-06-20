@@ -155,6 +155,7 @@ All solutions will be accepted!
 |414|[Third Maximum Number](https://leetcode-cn.com/problems/third-maximum-number/description/)|[java/py/js](./algorithms/ThirdMaximumNumber)|Easy|
 |645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/description/)|[java/py/js](./algorithms/SetMismatch)|Easy|
 |58|[Length Of Last Word](https://leetcode-cn.com/problems/length-of-last-word/description/)|[java/py/js](./algorithms/LengthOfLastWord)|Easy|
+|14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/)|[java/py/js](./algorithms/LongestCommonPrefix)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
