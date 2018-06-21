@@ -156,6 +156,7 @@ All solutions will be accepted!
 |645|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/description/)|[java/py/js](./algorithms/SetMismatch)|Easy|
 |58|[Length Of Last Word](https://leetcode-cn.com/problems/length-of-last-word/description/)|[java/py/js](./algorithms/LengthOfLastWord)|Easy|
 |14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/)|[java/py/js](./algorithms/LongestCommonPrefix)|Easy|
+|594|[Longest Harmonious Subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/description/)|[java/py/js](./algorithms/LongestHarmoniousSubsequence)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
