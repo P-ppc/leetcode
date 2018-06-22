@@ -157,6 +157,7 @@ All solutions will be accepted!
 |58|[Length Of Last Word](https://leetcode-cn.com/problems/length-of-last-word/description/)|[java/py/js](./algorithms/LengthOfLastWord)|Easy|
 |14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/)|[java/py/js](./algorithms/LongestCommonPrefix)|Easy|
 |594|[Longest Harmonious Subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/description/)|[java/py/js](./algorithms/LongestHarmoniousSubsequence)|Easy|
+|374|[Guess Number Higher Or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/description/)|[java/py/js](./algorithms/GuessNumberHigherOrLower)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
