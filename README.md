@@ -159,6 +159,7 @@ All solutions will be accepted!
 |594|[Longest Harmonious Subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/description/)|[java/py/js](./algorithms/LongestHarmoniousSubsequence)|Easy|
 |374|[Guess Number Higher Or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/description/)|[java/py](./algorithms/GuessNumberHigherOrLower)|Easy|
 |852|[Peak Index In A Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|[java/py/js](./algorithms/PeakIndexInAMountainArray)|Easy|
+|441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/description/)|[java/py/js](./algorithms/ArrangingCoins)|Easy|T
 
 # Database
 |#|Title|Solution|Difficulty|
