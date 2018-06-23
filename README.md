@@ -160,6 +160,7 @@ All solutions will be accepted!
 |374|[Guess Number Higher Or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/description/)|[java/py](./algorithms/GuessNumberHigherOrLower)|Easy|
 |852|[Peak Index In A Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|[java/py/js](./algorithms/PeakIndexInAMountainArray)|Easy|
 |441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/description/)|[java/py/js](./algorithms/ArrangingCoins)|Easy|T
+|69|[Sqrtx](https://leetcode-cn.com/problems/sqrtx/description/)|[java/py/js](./algorithms/Sqrtx)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
