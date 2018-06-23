@@ -163,6 +163,7 @@ All solutions will be accepted!
 |441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/description/)|[java/py/js](./algorithms/ArrangingCoins)|Easy|T
 |69|[Sqrtx](https://leetcode-cn.com/problems/sqrtx/description/)|[java/py/js](./algorithms/Sqrtx)|Easy|
 |367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/description/)|[java/py/js](./algorithms/ValidPerfectSquare)|Easy|
+|475|[Heaters](https://leetcode-cn.com/problems/heaters/description/)|[java/py/js](./algorithms/Heaters)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
