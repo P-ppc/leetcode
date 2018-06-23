@@ -161,6 +161,7 @@ All solutions will be accepted!
 |852|[Peak Index In A Mountain Array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|[java/py/js](./algorithms/PeakIndexInAMountainArray)|Easy|
 |441|[Arranging Coins](https://leetcode-cn.com/problems/arranging-coins/description/)|[java/py/js](./algorithms/ArrangingCoins)|Easy|T
 |69|[Sqrtx](https://leetcode-cn.com/problems/sqrtx/description/)|[java/py/js](./algorithms/Sqrtx)|Easy|
+|367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/description/)|[java/py/js](./algorithms/ValidPerfectSquare)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
