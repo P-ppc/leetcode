@@ -164,7 +164,8 @@ All solutions will be accepted!
 |69|[Sqrtx](https://leetcode-cn.com/problems/sqrtx/description/)|[java/py/js](./algorithms/Sqrtx)|Easy|
 |367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/description/)|[java/py/js](./algorithms/ValidPerfectSquare)|Easy|
 |475|[Heaters](https://leetcode-cn.com/problems/heaters/description/)|[java/py/js](./algorithms/Heaters)|Easy|
-|501|[Find Mode In Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/)|[java/py/js](./FindModeInBinarySearchTree)|Easy|
+|501|[Find Mode In Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/)|[java/py/js](./algorithms/FindModeInBinarySearchTree)|Easy|
+|434|[Number Of Segments In A String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/description/)|[java/py/js](./algorithms/NumberOfSegmentsInAString)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
