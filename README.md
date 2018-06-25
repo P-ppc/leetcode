@@ -166,6 +166,7 @@ All solutions will be accepted!
 |475|[Heaters](https://leetcode-cn.com/problems/heaters/description/)|[java/py/js](./algorithms/Heaters)|Easy|
 |501|[Find Mode In Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/)|[java/py/js](./algorithms/FindModeInBinarySearchTree)|Easy|
 |434|[Number Of Segments In A String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/description/)|[java/py/js](./algorithms/NumberOfSegmentsInAString)|Easy|
+|190|[Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/description/)|[java/py/js](./algorithms/ReverseBits)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
