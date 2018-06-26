@@ -167,6 +167,7 @@ All solutions will be accepted!
 |501|[Find Mode In Binary Search Tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/)|[java/py/js](./algorithms/FindModeInBinarySearchTree)|Easy|
 |434|[Number Of Segments In A String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/description/)|[java/py/js](./algorithms/NumberOfSegmentsInAString)|Easy|
 |190|[Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/description/)|[java/py/js](./algorithms/ReverseBits)|Easy|
+|400|[Nth Digits](https://leetcode-cn.com/problems/nth-digit/description/)|[java/py/js](./algorithms/NthDigits)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
