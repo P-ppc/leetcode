@@ -168,6 +168,7 @@ All solutions will be accepted!
 |434|[Number Of Segments In A String](https://leetcode-cn.com/problems/number-of-segments-in-a-string/description/)|[java/py/js](./algorithms/NumberOfSegmentsInAString)|Easy|
 |190|[Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/description/)|[java/py/js](./algorithms/ReverseBits)|Easy|
 |400|[Nth Digits](https://leetcode-cn.com/problems/nth-digit/description/)|[java/py/js](./algorithms/NthDigits)|Easy|
+|160|[Intersection Of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/)|[java/py/js](./algorithms/IntersectionOfLinkedLists)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
