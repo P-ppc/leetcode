@@ -170,6 +170,7 @@ All solutions will be accepted!
 |190|[Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/description/)|[java/py/js](./algorithms/ReverseBits)|Easy|
 |400|[Nth Digits](https://leetcode-cn.com/problems/nth-digit/description/)|[java/py/js](./algorithms/NthDigits)|Easy|
 |160|[Intersection Of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/)|[java/py/js](./algorithms/IntersectionOfLinkedLists)|Easy|
+|860|[LemonadeChange](https://leetcode-cn.com/problems/lemonade-change/description/)|[java/py/js](./algorithms/LemonadeChange)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
