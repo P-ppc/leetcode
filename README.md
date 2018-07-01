@@ -171,6 +171,7 @@ All solutions will be accepted!
 |400|[Nth Digits](https://leetcode-cn.com/problems/nth-digit/description/)|[java/py/js](./algorithms/NthDigits)|Easy|
 |160|[Intersection Of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/)|[java/py/js](./algorithms/IntersectionOfLinkedLists)|Easy|
 |860|[LemonadeChange](https://leetcode-cn.com/problems/lemonade-change/description/)|[java/py/js](./algorithms/LemonadeChange)|Easy|
+|401|[Binary Watch](https://leetcode-cn.com/problems/binary-watch/description/)|[java/py/js](./algorithms/BinaryWatch)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
