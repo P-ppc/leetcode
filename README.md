@@ -172,6 +172,7 @@ All solutions will be accepted!
 |160|[Intersection Of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/)|[java/py/js](./algorithms/IntersectionOfLinkedLists)|Easy|
 |860|[LemonadeChange](https://leetcode-cn.com/problems/lemonade-change/description/)|[java/py/js](./algorithms/LemonadeChange)|Easy|
 |401|[Binary Watch](https://leetcode-cn.com/problems/binary-watch/description/)|[java/py/js](./algorithms/BinaryWatch)|Easy|
+|482|[License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/description/)|[java/py/js](./algorithms/LicenseKeyFormatting)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
