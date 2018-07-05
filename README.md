@@ -175,6 +175,7 @@ All solutions will be accepted!
 |482|[License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/description/)|[java/py/js](./algorithms/LicenseKeyFormatting)|Easy|
 |720|[Longest Word In Dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary/description/)|[java/py/js](./algorithms/LongestWordInDictionary)|Easy|
 |836|[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/description/)|[java/py/js](./algorithms/RectangleOverlap)|Easy|
+|643|[Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/description/)|[java/py/js](./algorithms/MaximumAverageSubarrayI)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
