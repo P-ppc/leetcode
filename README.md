@@ -177,6 +177,7 @@ All solutions will be accepted!
 |836|[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/description/)|[java/py/js](./algorithms/RectangleOverlap)|Easy|
 |643|[Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/description/)|[java/py/js](./algorithms/MaximumAverageSubarrayI)|Easy|
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/description/)|[java/py/js](./algorithms/RotateArray)|Easy|
+|687|[Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/description/)|[java/py/js](./algorithms/LongestUnivaluePath)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
