@@ -179,6 +179,7 @@ All solutions will be accepted!
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/description/)|[java/py/js](./algorithms/RotateArray)|Easy|
 |687|[Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/description/)|[java/py/js](./algorithms/LongestUnivaluePath)|Easy|
 |28|[Implement Strstr](https://leetcode-cn.com/problems/implement-strstr/description/)|[java/py/js](./algorithms/ImplementStrstr)|Easy|
+|459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/description/)|[java/py/js](./algorithms/RepeatedSubstringPattern)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
