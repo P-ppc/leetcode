@@ -142,6 +142,7 @@ All solutions will be accepted!
 |290|[Word Pattern](https://leetcode-cn.com/problems/word-pattern/description/)|[java/py/js](./algorithms/WordPattern)|Easy|
 |205|[Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/description/)|[java/py/js](./algorithms/IsomorphicStrings)|Easy|
 |125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/description/)|[java/py/js](./algorithms/ValidPalindrome)|Easy|
+|680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/description/)|[java/py/js](./algorithms/ValidPalindromeII)|Easy|
 |141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[java/py/js](./algorithms/LinkedListCycle)|Easy|
 |387|[First Unique Character In A String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|[java/py/js](./algorithms/FirstUniqueCharacterInAString)|Easy|
 |628|[Maximum Product Of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/)|[java/py/js](./algorithms/MaximumProductOfThreeNumbers)|Easy|
