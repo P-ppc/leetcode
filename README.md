@@ -181,6 +181,7 @@ All solutions will be accepted!
 |28|[Implement Strstr](https://leetcode-cn.com/problems/implement-strstr/description/)|[java/py/js](./algorithms/ImplementStrstr)|Easy|
 |459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/description/)|[java/py/js](./algorithms/RepeatedSubstringPattern)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/description/)|[java/py/js](./algorithms/ShortestUnsortedContinuousSubarray)|Easy|
+|443|[String Compression](https://leetcode-cn.com/problems/string-compression/description/)|[java/py/js](./algorithms/StringCompression)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
