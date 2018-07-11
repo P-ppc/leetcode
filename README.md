@@ -184,6 +184,7 @@ All solutions will be accepted!
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/description/)|[java/py/js](./algorithms/ShortestUnsortedContinuousSubarray)|Easy|
 |443|[String Compression](https://leetcode-cn.com/problems/string-compression/description/)|[java/py/js](./algorithms/StringCompression)|Easy|
 |438|[Find All Anagrams In A String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/description/)|[java/py/js](./algorithms/FindAllAnagramsInAString)|Easy|
+|7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/)|[java/py/js](./algorithms/ReverseInteger)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
