@@ -186,6 +186,7 @@ All solutions will be accepted!
 |438|[Find All Anagrams In A String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/description/)|[java/py/js](./algorithms/FindAllAnagramsInAString)|Easy|
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/)|[java/py/js](./algorithms/ReverseInteger)|Easy|
 |507|[Perfect Number](https://leetcode-cn.com/problems/perfect-number/description/)|[java/py/js](./algorithms/PerfectNumber)|Easy|
+|840|[Magic Squares In Grid](https://leetcode-cn.com/problems/magic-squares-in-grid/description/)|[java/py/js](./algorithms/MagicSquaresInGrid)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
