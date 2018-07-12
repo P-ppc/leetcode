@@ -187,6 +187,7 @@ All solutions will be accepted!
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/)|[java/py/js](./algorithms/ReverseInteger)|Easy|
 |507|[Perfect Number](https://leetcode-cn.com/problems/perfect-number/description/)|[java/py/js](./algorithms/PerfectNumber)|Easy|
 |840|[Magic Squares In Grid](https://leetcode-cn.com/problems/magic-squares-in-grid/description/)|[java/py/js](./algorithms/MagicSquaresInGrid)|Easy|
+|532|[K Diff Pairs In An Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/description/)|[java/py/js](./algorithms/KDiffPairsInAnArray)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
