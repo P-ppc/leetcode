@@ -190,6 +190,7 @@ All solutions will be accepted!
 |532|[K Diff Pairs In An Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/description/)|[java/py/js](./algorithms/KDiffPairsInAnArray)|Easy|
 |633|[Sum Of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|[java/py/js](./algorithms/SumOfSquareNumbers)|Easy|
 |605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/description/)|[java/py/js](./algorithms/CanPlaceFlowers)|Easy|
+|204|[Count Primes](https://leetcode-cn.com/problems/count-primes/description/)|[java/py/js](./algorithms/CountPrimes)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
