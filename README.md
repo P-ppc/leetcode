@@ -189,6 +189,7 @@ All solutions will be accepted!
 |840|[Magic Squares In Grid](https://leetcode-cn.com/problems/magic-squares-in-grid/description/)|[java/py/js](./algorithms/MagicSquaresInGrid)|Easy|
 |532|[K Diff Pairs In An Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/description/)|[java/py/js](./algorithms/KDiffPairsInAnArray)|Easy|
 |633|[Sum Of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|[java/py/js](./algorithms/SumOfSquareNumbers)|Easy|
+|605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/description/)|[java/py/js](./algorithms/CanPlaceFlowers)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
