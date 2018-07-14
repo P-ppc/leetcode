@@ -192,6 +192,7 @@ All solutions will be accepted!
 |605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/description/)|[java/py/js](./algorithms/CanPlaceFlowers)|Easy|
 |204|[Count Primes](https://leetcode-cn.com/problems/count-primes/description/)|[java/py/js](./algorithms/CountPrimes)|Easy|
 |859|[Buddy Strings](https://leetcode-cn.com/problems/buddy-strings/description/)|[java/py/js](./algorithms/BuddyStrings)|Easy|
+|686|[Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/description/)|[java/py/js](./algorithms/RepeatedStringMatch)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
