@@ -194,6 +194,7 @@ All solutions will be accepted!
 |859|[Buddy Strings](https://leetcode-cn.com/problems/buddy-strings/description/)|[java/py/js](./algorithms/BuddyStrings)|Easy|
 |686|[Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/description/)|[java/py/js](./algorithms/RepeatedStringMatch)|Easy|
 |665|[Non Decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/description/)|[java/py/js](./algorithms/NonDecreasingArray)|Easy|
+|867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/description/)|[java/py/js](./algorithms/TransposeMatrix)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
