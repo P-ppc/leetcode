@@ -193,6 +193,7 @@ All solutions will be accepted!
 |204|[Count Primes](https://leetcode-cn.com/problems/count-primes/description/)|[java/py/js](./algorithms/CountPrimes)|Easy|
 |859|[Buddy Strings](https://leetcode-cn.com/problems/buddy-strings/description/)|[java/py/js](./algorithms/BuddyStrings)|Easy|
 |686|[Repeated String Match](https://leetcode-cn.com/problems/repeated-string-match/description/)|[java/py/js](./algorithms/RepeatedStringMatch)|Easy|
+|665|[Non Decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/description/)|[java/py/js](./algorithms/NonDecreasingArray)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
