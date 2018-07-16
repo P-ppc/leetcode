@@ -40,6 +40,7 @@ All solutions will be accepted!
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/)|[java/py/js](./algorithms/MoveZeroes)|Easy|
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/description/)|[java/py/js](./algorithms/SingleNumber)|Easy|
 |137|[Single Number II](https://leetcode-cn.com/problems/single-number-ii/description/)|[java/py/js](./algorithms/SingleNumberII)|Medium|
+|260|[Single Number III](https://leetcode-cn.com/problems/single-number-iii/description/)|[java/py/js](./algorithms/SingleNumberIII)|Medium|
 |1|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/)|[java/py/js](./algorithms/TwoSum)|Easy|
 |167|[Two Sum II Input Array Is Sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/)|[java/py/js](./algorithms/TwoSumIIInputArrayIsSorted)|Easy|
 |653|[Two Sum IV Input Is A Bst](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/)|[java/py/js](./algorithms/TwoSumIVInputIsABst)|Easy|
