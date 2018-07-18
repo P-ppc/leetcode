@@ -201,6 +201,7 @@ All solutions will be accepted!
 |479|[Largest Palindrome Product](https://leetcode-cn.com/problems/largest-palindrome-product/description/)|[java/py/js](./algorithms/LargestPalindromeProduct)|Easy|
 |102|[Binray Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/)|[java/py/js](./algorithms/BinrayTreeLevelOrderTraversal)|Medium|
 |22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/description/)|[java/py/js](./algorithms/GenerateParentheses)|Easy|
+|704|[Binary Search](https://leetcode-cn.com/problems/binary-search/description/)|[java/py/js](./algorithms/BinarySearch)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
