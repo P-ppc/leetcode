@@ -202,6 +202,7 @@ All solutions will be accepted!
 |102|[Binray Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/)|[java/py/js](./algorithms/BinrayTreeLevelOrderTraversal)|Medium|
 |22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/description/)|[java/py/js](./algorithms/GenerateParentheses)|Easy|
 |704|[Binary Search](https://leetcode-cn.com/problems/binary-search/description/)|[java/py/js](./algorithms/BinarySearch)|Easy|
+|709|[To Lower Case](https://leetcode-cn.com/problems/to-lower-case/description/)|[java/py/js](./algorithms/ToLowerCase)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
