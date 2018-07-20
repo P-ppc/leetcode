@@ -203,6 +203,7 @@ All solutions will be accepted!
 |22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/description/)|[java/py/js](./algorithms/GenerateParentheses)|Easy|
 |704|[Binary Search](https://leetcode-cn.com/problems/binary-search/description/)|[java/py/js](./algorithms/BinarySearch)|Easy|
 |709|[To Lower Case](https://leetcode-cn.com/problems/to-lower-case/description/)|[java/py/js](./algorithms/ToLowerCase)|Easy|
+|700|[Search In A Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/description/)|[java/py/js](SearchInABinarySearchTree)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
