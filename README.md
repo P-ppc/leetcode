@@ -206,6 +206,7 @@ All solutions will be accepted!
 |700|[Search In A Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/description/)|[java/py/js](./algorithms/SearchInABinarySearchTree)|Easy|
 |868|[Binary Gap](https://leetcode-cn.com/problems/binary-gap/description/)|[java/py/js](./algorithms/BinaryGap)|Easy|
 |559|[Maximum Depth Of N Ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/)|[java/python](./algorithms/MaximumDepthOfNAryTree)|Easy|
+|429|[N Ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/)|[java/py](./algorithms/NAryTreeLevelOrderTraversal)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
