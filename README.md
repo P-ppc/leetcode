@@ -209,6 +209,7 @@ All solutions will be accepted!
 |429|[N Ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/)|[java/py](./algorithms/NAryTreeLevelOrderTraversal)|Easy|
 |589|[N Ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|[java/py](./algorithms/NAryTreePreorderTraversal)|Easy|
 |590|[N Ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/)|[java/py](./algorithms/NAryTreePostorderTraversal)|Easy|
+|707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/description/)|[java/py/js](./algorithms/DesignLinkedList)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
