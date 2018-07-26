@@ -210,6 +210,7 @@ All solutions will be accepted!
 |589|[N Ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|[java/py](./algorithms/NAryTreePreorderTraversal)|Easy|
 |590|[N Ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/)|[java/py](./algorithms/NAryTreePostorderTraversal)|Easy|
 |707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/description/)|[java/py/js](./algorithms/DesignLinkedList)|Easy|
+|622|[Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/description/)|[java/py/js](./algorithms/DesignCircularQueue)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
