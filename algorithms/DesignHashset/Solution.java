@@ -1,3 +1,4 @@
+// java case have 0 input
 class MyHashSet {
     int[] buckets;
     
