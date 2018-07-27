@@ -212,6 +212,7 @@ All solutions will be accepted!
 |707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/description/)|[java/py/js](./algorithms/DesignLinkedList)|Easy|
 |622|[Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/description/)|[java/py/js](./algorithms/DesignCircularQueue)|Easy|
 |641|[Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/description/)|[java/py/js](./algorithms/DesignCircularDeque)|Easy|
+|705|[Design Hashset](https://leetcode-cn.com/problems/design-hashset/description/)|[java/py/js](./algorithms/DesignHashset)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
