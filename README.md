@@ -214,6 +214,7 @@ All solutions will be accepted!
 |641|[Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/description/)|[java/py/js](./algorithms/DesignCircularDeque)|Easy|
 |705|[Design Hashset](https://leetcode-cn.com/problems/design-hashset/description/)|[java/py/js](./algorithms/DesignHashset)|Easy|
 |706|[Design Hashmap](https://leetcode-cn.com/problems/design-hashmap/description/)|[java/py/js](./algorithms/DesignHashmap)|Easy|
+|872|[Leaf Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/description/)|[java/py/js](./algorithms/LeafSimilarTrees)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
