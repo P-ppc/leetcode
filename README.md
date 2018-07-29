@@ -215,6 +215,7 @@ All solutions will be accepted!
 |705|[Design Hashset](https://leetcode-cn.com/problems/design-hashset/description/)|[java/py/js](./algorithms/DesignHashset)|Easy|
 |706|[Design Hashmap](https://leetcode-cn.com/problems/design-hashmap/description/)|[java/py/js](./algorithms/DesignHashmap)|Easy|
 |872|[Leaf Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/description/)|[java/py/js](./algorithms/LeafSimilarTrees)|Easy|
+|427|[Construct Quad Tree](https://leetcode-cn.com/problems/construct-quad-tree/description/)|[java/py](./algorithms/ConstructQuadTree)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
