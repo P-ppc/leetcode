@@ -217,6 +217,7 @@ All solutions will be accepted!
 |872|[Leaf Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/description/)|[java/py/js](./algorithms/LeafSimilarTrees)|Easy|
 |427|[Construct Quad Tree](https://leetcode-cn.com/problems/construct-quad-tree/description/)|[java/py](./algorithms/ConstructQuadTree)|Easy|
 |458|[Poor Pigs](https://leetcode-cn.com/problems/poor-pigs/description/)|[java/py/js](./algorithms/PoorPigs)|Easy|
+|558|[Quad Tree Intersection](https://leetcode-cn.com/problems/quad-tree-intersection/description/)|[java/py](./algorithms/QuadTreeIntersection)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
