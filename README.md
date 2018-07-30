@@ -216,6 +216,7 @@ All solutions will be accepted!
 |706|[Design Hashmap](https://leetcode-cn.com/problems/design-hashmap/description/)|[java/py/js](./algorithms/DesignHashmap)|Easy|
 |872|[Leaf Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/description/)|[java/py/js](./algorithms/LeafSimilarTrees)|Easy|
 |427|[Construct Quad Tree](https://leetcode-cn.com/problems/construct-quad-tree/description/)|[java/py](./algorithms/ConstructQuadTree)|Easy|
+|458|[Poor Pigs](https://leetcode-cn.com/problems/poor-pigs/description/)|[java/py/js](./algorithms/PoorPigs)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
