@@ -218,6 +218,7 @@ All solutions will be accepted!
 |427|[Construct Quad Tree](https://leetcode-cn.com/problems/construct-quad-tree/description/)|[java/py](./algorithms/ConstructQuadTree)|Easy|
 |458|[Poor Pigs](https://leetcode-cn.com/problems/poor-pigs/description/)|[java/py/js](./algorithms/PoorPigs)|Easy|
 |558|[Quad Tree Intersection](https://leetcode-cn.com/problems/quad-tree-intersection/description/)|[java/py](./algorithms/QuadTreeIntersection)|Easy|
+|874|[Walking Robot Simulation](https://leetcode-cn.com/problems/walking-robot-simulation/description/)|[java/py/js](./algorithms/WalkingRobotSimulation)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
