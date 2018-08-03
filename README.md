@@ -222,6 +222,7 @@ All solutions will be accepted!
 |876|[Middle Of The Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/description/)|[java/py/js](./algorithms/MiddleOfTheLinkedList)|Easy|
 |703|[Kth Largest Element In A Stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/description/KthLargestElementInAStream)|Easy|
 |39|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/description/)|[java/py/js](./algorithms/CombinationSum)|Easy|
+|40|[Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/description/)|[java/py/js](./algorithms/CombinationSumII)|Easy|
 
 # Database
 |#|Title|Solution|Difficulty|
