@@ -200,7 +200,7 @@ All solutions will be accepted!
 |867|[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/description/)|[java/py/js](./algorithms/TransposeMatrix)|Easy|
 |479|[Largest Palindrome Product](https://leetcode-cn.com/problems/largest-palindrome-product/description/)|[java/py/js](./algorithms/LargestPalindromeProduct)|Easy|
 |102|[Binray Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/)|[java/py/js](./algorithms/BinrayTreeLevelOrderTraversal)|Medium|
-|22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/description/)|[java/py/js](./algorithms/GenerateParentheses)|Easy|
+|22|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/description/)|[java/py/js](./algorithms/GenerateParentheses)|Medium|
 |704|[Binary Search](https://leetcode-cn.com/problems/binary-search/description/)|[java/py/js](./algorithms/BinarySearch)|Easy|
 |709|[To Lower Case](https://leetcode-cn.com/problems/to-lower-case/description/)|[java/py/js](./algorithms/ToLowerCase)|Easy|
 |700|[Search In A Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/description/)|[java/py/js](./algorithms/SearchInABinarySearchTree)|Easy|
