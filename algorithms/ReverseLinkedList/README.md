@@ -1,6 +1,6 @@
 # Reverse Linked List
 This problem is easy to solve, the loop solution is like below:
-```
+```python
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, x):

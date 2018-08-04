@@ -1,6 +1,6 @@
 # Letter Case Permutation
 This problem is easy to solve by set, or use Backtracking Algorithm to solve it, just like below:
-```
+```python
 class Solution(object):
     def letterCasePermutation(self, S):
         """

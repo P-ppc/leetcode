@@ -1,6 +1,6 @@
 # Climbing Stairs
 This problem is easy to solve by recursive like below:
-```
+```python
 class Solution(object):
     def climbStairs(self, n):
         """

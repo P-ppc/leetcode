@@ -1,6 +1,6 @@
 # Power Of Four
 Use recursion can easy to solve this problem, like below:
-```
+```python
 class Solution(object):
     def isPowerOfFour(self, num):
         """

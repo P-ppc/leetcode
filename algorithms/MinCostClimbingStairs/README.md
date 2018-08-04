@@ -1,6 +1,6 @@
 # Min Cost Climbing Stairs
 This problem is easy to solve by dynamic programming, the recursion solution is like below:
-```
+```python
 class Solution(object):
     def minCostClimbingStairs(self, cost):
         """

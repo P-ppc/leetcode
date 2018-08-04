@@ -1,6 +1,6 @@
 # Convert Bst To Greater Tree
 We can simply inorder traversal the tree and reverse the result then get sum, just like below:
-```
+```python
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):

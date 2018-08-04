@@ -1,6 +1,6 @@
 # Symmetric Tree
 This problem is easy to solve, the recursive solution is like below:
-```
+```python
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):

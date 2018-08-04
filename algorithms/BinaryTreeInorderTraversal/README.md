@@ -1,6 +1,6 @@
 # Binary Tree Inorder Traversal
 Use recursion can easy to solve this problem, like below:
-```
+```python
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
