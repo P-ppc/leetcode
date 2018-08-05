@@ -224,6 +224,7 @@ All solutions will be accepted!
 |39|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/description/)|[java/py/js](./algorithms/CombinationSum)|Medium|
 |40|[Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/description/)|[java/py/js](./algorithms/CombinationSumII)|Medium|
 |216|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/description/)|[java/py/js](./algorithms/CombinationSumIII)|Medium|
+|46|[Permutations](https://leetcode-cn.com/problems/permutations/description/)|[java/py/js](./algorithms/Permutations)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
