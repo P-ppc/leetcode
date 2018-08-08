@@ -227,6 +227,7 @@ All solutions will be accepted!
 |46|[Permutations](https://leetcode-cn.com/problems/permutations/description/)|[java/py/js](./algorithms/Permutations)|Medium|
 |47|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/description/)|[java/py/js](./algorithms/PermutationsII)|Medium|
 |77|[Combinations](https://leetcode-cn.com/problems/combinations/description/)|[java/py/js](./algorithms/Combinations)|Medium|
+|78|[Subsets](https://leetcode-cn.com/problems/subsets/description/)|[java/py/js](./algorithms/Subsets)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
