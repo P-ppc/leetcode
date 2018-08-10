@@ -229,6 +229,7 @@ All solutions will be accepted!
 |77|[Combinations](https://leetcode-cn.com/problems/combinations/description/)|[java/py/js](./algorithms/Combinations)|Medium|
 |78|[Subsets](https://leetcode-cn.com/problems/subsets/description/)|[java/py/js](./algorithms/Subsets)|Medium|
 |90|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/description/)|[java/py/js](./algorithms/SubsetsII)|Medium|
+|89|[Gray Code](https://leetcode-cn.com/problems/gray-code/description/)|[java/py/js](./algorithms/GrayCode)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
