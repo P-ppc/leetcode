@@ -205,7 +205,7 @@ All solutions will be accepted!
 |709|[To Lower Case](https://leetcode-cn.com/problems/to-lower-case/description/)|[java/py/js](./algorithms/ToLowerCase)|Easy|
 |700|[Search In A Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/description/)|[java/py/js](./algorithms/SearchInABinarySearchTree)|Easy|
 |868|[Binary Gap](https://leetcode-cn.com/problems/binary-gap/description/)|[java/py/js](./algorithms/BinaryGap)|Easy|
-|559|[Maximum Depth Of N Ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/)|[java/python](./algorithms/MaximumDepthOfNAryTree)|Easy|
+|559|[Maximum Depth Of N Ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/)|[java/py](./algorithms/MaximumDepthOfNAryTree)|Easy|
 |429|[N Ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/)|[java/py](./algorithms/NAryTreeLevelOrderTraversal)|Easy|
 |589|[N Ary Tree Preorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)|[java/py](./algorithms/NAryTreePreorderTraversal)|Easy|
 |590|[N Ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/description/)|[java/py](./algorithms/NAryTreePostorderTraversal)|Easy|
@@ -230,6 +230,7 @@ All solutions will be accepted!
 |78|[Subsets](https://leetcode-cn.com/problems/subsets/description/)|[java/py/js](./algorithms/Subsets)|Medium|
 |90|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/description/)|[java/py/js](./algorithms/SubsetsII)|Medium|
 |89|[Gray Code](https://leetcode-cn.com/problems/gray-code/description/)|[java/py/js](./algorithms/GrayCode)|Medium|
+|17|[Letter Combinations Of A Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/)|[java/py/js](./algorithms/LetterCombinationsOfAPhoneNumber)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
