@@ -231,6 +231,7 @@ All solutions will be accepted!
 |90|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/description/)|[java/py/js](./algorithms/SubsetsII)|Medium|
 |89|[Gray Code](https://leetcode-cn.com/problems/gray-code/description/)|[java/py/js](./algorithms/GrayCode)|Medium|
 |17|[Letter Combinations Of A Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/)|[java/py/js](./algorithms/LetterCombinationsOfAPhoneNumber)|Medium|
+|131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/description/)|[java/py/js](./algorithms/PalindromePartitioning)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
