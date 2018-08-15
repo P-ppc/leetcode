@@ -234,6 +234,7 @@ All solutions will be accepted!
 |131|[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/description/)|[java/py/js](./algorithms/PalindromePartitioning)|Medium|
 |60|[Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/description/)|[java/py/js](./algorithms/PermutationSequence)|Medium|
 |106|[Construct Binary Tree From Inorder And Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|[java/py/js](./algorithms/ConstructBinaryTreeFromInorderAndPostorderTraversal)|Medium|
+|105|[Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[java/py/js](./algorithms/ConstructBinaryTreeFromPreorderAndInorderTraversal)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
