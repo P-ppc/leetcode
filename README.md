@@ -237,6 +237,7 @@ All solutions will be accepted!
 |105|[Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[java/py/js](./algorithms/ConstructBinaryTreeFromPreorderAndInorderTraversal)|Medium|
 |654|[Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree/description/)|[java/py/js](./algorithms/MaximumBinaryTree)|Medium|
 |208|[Implement Trie Prefix Tree](https://leetcode-cn.com/problems/implement-trie-prefix-tree/description/)|[java/py/js](./algorithms/ImplementTriePrefixTree)|Medium|
+|114|[Flatten Binary Tree To Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/description/)|[java/py/js](./algorithms/FlattenBinaryTreeToLinkedList)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
