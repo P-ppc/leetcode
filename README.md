@@ -239,6 +239,7 @@ All solutions will be accepted!
 |208|[Implement Trie Prefix Tree](https://leetcode-cn.com/problems/implement-trie-prefix-tree/description/)|[java/py/js](./algorithms/ImplementTriePrefixTree)|Medium|
 |114|[Flatten Binary Tree To Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/description/)|[java/py/js](./algorithms/FlattenBinaryTreeToLinkedList)|Medium|
 |284|[Peeking Iterator](https://leetcode-cn.com/problems/peeking-iterator/description/)|[java/py](./algorithms/PeekingIterator)|Medium|
+|328|[Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/description/)|[java/py/js](./algorithms/OddEvenLinkedList)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
