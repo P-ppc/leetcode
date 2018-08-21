@@ -241,6 +241,7 @@ All solutions will be accepted!
 |284|[Peeking Iterator](https://leetcode-cn.com/problems/peeking-iterator/description/)|[java/py](./algorithms/PeekingIterator)|Medium|
 |328|[Odd Even Linked List](https://leetcode-cn.com/problems/odd-even-linked-list/description/)|[java/py/js](./algorithms/OddEvenLinkedList)|Medium|
 |677|[Map Sum Pairs](https://leetcode-cn.com/problems/map-sum-pairs/description/)|[java/py/js](./algorithms/MapSumPairs)|Medium|
+|442|[Find All Duplicates In An Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/)|[java/py/js](./algorithms/FindAllDuplicatesInAnArray)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
