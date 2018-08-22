@@ -243,6 +243,7 @@ All solutions will be accepted!
 |677|[Map Sum Pairs](https://leetcode-cn.com/problems/map-sum-pairs/description/)|[java/py/js](./algorithms/MapSumPairs)|Medium|
 |442|[Find All Duplicates In An Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/)|[java/py/js](./algorithms/FindAllDuplicatesInAnArray)|Medium|
 |64|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/description/)|[java/py/js](./algorithms/MinimumPathSum)|Medium|
+|535|[Encode And Decode Tinyurl](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/)|[java/py/js](./algorithms/EncodeAndDecodeTinyurl)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
