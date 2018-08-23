@@ -244,6 +244,7 @@ All solutions will be accepted!
 |442|[Find All Duplicates In An Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/description/)|[java/py/js](./algorithms/FindAllDuplicatesInAnArray)|Medium|
 |64|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/description/)|[java/py/js](./algorithms/MinimumPathSum)|Medium|
 |535|[Encode And Decode Tinyurl](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/)|[java/py/js](./algorithms/EncodeAndDecodeTinyurl)|Medium|
+|540|[Single Element In A Sorted Array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/description/)|[java/py/js](./algorithms/SingleElementInASortedArray)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
