@@ -246,6 +246,7 @@ All solutions will be accepted!
 |535|[Encode And Decode Tinyurl](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/)|[java/py/js](./algorithms/EncodeAndDecodeTinyurl)|Medium|
 |540|[Single Element In A Sorted Array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/description/)|[java/py/js](./algorithms/SingleElementInASortedArray)|Medium|
 |148|[Sort List](https://leetcode-cn.com/problems/sort-list/description/)|[java/py/js](./algorithms/SortList)|Medium|
+|24|[Swap Nodes In Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/)|[java/py/js](./algorithms/SwapNodesInPairs)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
