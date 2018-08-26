@@ -147,6 +147,7 @@ All solutions will be accepted!
 |125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/description/)|[java/py/js](./algorithms/ValidPalindrome)|Easy|
 |680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/description/)|[java/py/js](./algorithms/ValidPalindromeII)|Easy|
 |141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/description/)|[java/py/js](./algorithms/LinkedListCycle)|Easy|
+|142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/description/)|[java/py/js](./algorithms/LinkedListCycleII)|Medium|
 |387|[First Unique Character In A String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/)|[java/py/js](./algorithms/FirstUniqueCharacterInAString)|Easy|
 |628|[Maximum Product Of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/)|[java/py/js](./algorithms/MaximumProductOfThreeNumbers)|Easy|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/description/)|[java/py/js](./algorithms/FindPivotIndex)|Easy|
