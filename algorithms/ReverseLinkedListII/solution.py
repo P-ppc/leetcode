@@ -30,7 +30,7 @@ class Solution(object):
             cur.next = reverse
             reverse = cur
             cur = nxt
-            
+        # the tail of reverse
         pre.next.next = cur
         pre.next = reverse
         

@@ -26,6 +26,7 @@ class Solution {
             cur = next;
         }
         
+        // the tail of reverse
         pre.next.next = cur;
         pre.next = reverse;
         return dummy.next;

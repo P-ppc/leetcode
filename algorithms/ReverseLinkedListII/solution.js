@@ -29,7 +29,7 @@ var reverseBetween = function(head, m, n) {
         reverse = cur
         cur = next
     }
-    
+    // the tail of reverse
     pre.next.next = cur
     pre.next = reverse
     
