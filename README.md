@@ -255,6 +255,7 @@ All solutions will be accepted!
 |199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/description/)|[java/py/js](./algorithms/BinaryTreeRightSideView)|Medium|
 |147|[Insertion Sort List](https://leetcode-cn.com/problems/insertion-sort-list/description/)|[java/py/js](./algorithms/InsertionSortList)|Medium|
 |495|[Teemo Attacking](https://leetcode-cn.com/problems/teemo-attacking/description/)|[java/py/js](./algorithms/TeemoAttacking)|Medium|
+|56|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/description/)|[java/py/js](./algorithms/MergeIntervals)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
