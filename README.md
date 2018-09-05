@@ -259,6 +259,7 @@ All solutions will be accepted!
 |11|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/description/)|[java/py/js](./algorithms/ContainerWithMostWater)|Medium|
 |338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/description/)|[java/py/js](./algorithms/CountingBits)|Medium|
 |287|[Find The Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|[java/py/js](./algorithms/FindTheDuplicateNumber)|Medium|
+|807|[Max Increase To Keep City Skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/description/)|[java/py/js](./algorithms/MaxIncreaseToKeepCitySkyline)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
