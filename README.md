@@ -258,6 +258,7 @@ All solutions will be accepted!
 |56|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/description/)|[java/py/js](./algorithms/MergeIntervals)|Medium|
 |11|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/description/)|[java/py/js](./algorithms/ContainerWithMostWater)|Medium|
 |338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/description/)|[java/py/js](./algorithms/CountingBits)|Medium|
+|287|[Find The Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|[java/py/js](./algorithms/FindTheDuplicateNumber)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
