@@ -260,9 +260,10 @@ All solutions will be accepted!
 |338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/description/)|[java/py/js](./algorithms/CountingBits)|Medium|
 |287|[Find The Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|[java/py/js](./algorithms/FindTheDuplicateNumber)|Medium|
 |807|[Max Increase To Keep City Skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/description/)|[java/py/js](./algorithms/MaxIncreaseToKeepCitySkyline)|Medium|
+|59|[Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/description/)|[java/py/js](./algorithms/SpiralMatrixII)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
 |:-|:-|:-|:-|
 |596|[Big Countries](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./database/BigCountries)|Easy|
-|182|[Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/description/)|[mysql](./algorithms/DuplicateEmails)|Easy|
+|182|[Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/description/)|[mysql](./database/DuplicateEmails)|Easy|
