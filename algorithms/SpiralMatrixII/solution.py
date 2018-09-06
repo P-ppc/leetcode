@@ -24,7 +24,7 @@ class Solution(object):
                 x_direction = 0
                 y_direction = 1
             elif i + y_direction > bottom_limit:
-                right_limit = i - 1
+                right_limit = j - 1
                 x_direction = -1
                 y_direction = 0
             elif j + x_direction < left_limit:

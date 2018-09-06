@@ -23,7 +23,7 @@ var generateMatrix = function(n) {
             xDirection = 0
             yDirection = 1
         } else if (i + yDirection > bottomLimit) {
-            rightLimit = i - 1
+            rightLimit = j - 1
             xDirection = -1
             yDirection = 0
         } else if (j + xDirection < leftLimit) {
