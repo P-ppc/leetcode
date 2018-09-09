@@ -264,6 +264,7 @@ All solutions will be accepted!
 |59|[Spiral Matrix II](https://leetcode-cn.com/problems/spiral-matrix-ii/description/)|[java/py/js](./algorithms/SpiralMatrixII)|Medium|
 |885|[Spiral Matrix III](https://leetcode-cn.com/problems/spiral-matrix-iii/description/)|[java/py/js](./algorithms/SpiralMatrixIII)|Medium|
 |19|[Remove Nth Node From End Of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/)|[java/py/js](./algorithms/RemoveNthNodeFromEndOfList)|Medium|
+|526|[Beautiful Arrangement](https://leetcode-cn.com/problems/beautiful-arrangement/description/)|[java/py/js](./algorithms/BeautifulArrangement)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
