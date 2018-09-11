@@ -266,6 +266,7 @@ All solutions will be accepted!
 |19|[Remove Nth Node From End Of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/)|[java/py/js](./algorithms/RemoveNthNodeFromEndOfList)|Medium|
 |526|[Beautiful Arrangement](https://leetcode-cn.com/problems/beautiful-arrangement/description/)|[java/py/js](./algorithms/BeautifulArrangement)|Medium|
 |814|[Binary Tree Pruning](https://leetcode-cn.com/problems/binary-tree-pruning/description/)|[java/py/js](./algorithms/BinaryTreePruning)|Medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/description/)|[java/py/js](./algorithms/EvaluateReversePolishNotation)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
