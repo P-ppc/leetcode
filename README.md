@@ -267,6 +267,7 @@ All solutions will be accepted!
 |526|[Beautiful Arrangement](https://leetcode-cn.com/problems/beautiful-arrangement/description/)|[java/py/js](./algorithms/BeautifulArrangement)|Medium|
 |814|[Binary Tree Pruning](https://leetcode-cn.com/problems/binary-tree-pruning/description/)|[java/py/js](./algorithms/BinaryTreePruning)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/description/)|[java/py/js](./algorithms/EvaluateReversePolishNotation)|Medium|
+|341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/description/)|[java/py/js](./algorithms/FlattenNestedListIterator)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
