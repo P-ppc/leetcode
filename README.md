@@ -269,6 +269,7 @@ All solutions will be accepted!
 |150|[Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/description/)|[java/py/js](./algorithms/EvaluateReversePolishNotation)|Medium|
 |341|[Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/description/)|[java/py/js](./algorithms/FlattenNestedListIterator)|Medium|
 |856|[Score Of Parentheses](https://leetcode-cn.com/problems/score-of-parentheses/description/)|[java/py/js](./algorithms/ScoreOfParentheses)|Medium|
+|725|[Split Linked List In Parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/description/)|[java/py/js](./algorithms/SplitLinkedListInParts)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
