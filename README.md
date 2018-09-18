@@ -273,6 +273,7 @@ All solutions will be accepted!
 |725|[Split Linked List In Parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/description/)|[java/py/js](./algorithms/SplitLinkedListInParts)|Medium|
 |86|[Partition List](https://leetcode-cn.com/problems/partition-list/description/)|[java/py/js](./algorithms/PartitionList)|Medium|
 |2|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/)|[java/py/js](./algorithms/AddTwoNumbers)|Medium|
+|445|[Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/description/)|[java/py/js](./algorithms/AddTwoNumbersII)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
