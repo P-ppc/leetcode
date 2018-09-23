@@ -278,6 +278,7 @@ All solutions will be accepted!
 |430|[Flatten A Multilevel Doubly Linked List](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/description/)|[java/py](./algorithms/FlattenAMultilevelDoublyLinkedList)|Medium|
 |138|[Copy List With Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/description/)|[java/py/js](./algorithms/CopyListWithRandomPointer)|Medium|
 |62|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/description/)|[java/py/js](./algorithms/UniquePaths)|Medium|
+|162|[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/description/)|[java/py/js](./algorithms/FindPeakElement)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
