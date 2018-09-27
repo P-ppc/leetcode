@@ -282,6 +282,7 @@ All solutions will be accepted!
 |162|[Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/description/)|[java/py/js](./algorithms/FindPeakElement)|Medium|
 |200|[Number Of Islands](https://leetcode-cn.com/problems/number-of-islands/description/)|[java/py/js](./algorithms/NumberOfIslands)|Medium|
 |223|[Rectangle Area](https://leetcode-cn.com/problems/rectangle-area/description/)|[java/py/js](./algorithms/RectangleArea)|Medium|
+|419|[Battleships In A Board](https://leetcode-cn.com/problems/battleships-in-a-board/description/)|[java/py/js](./algorithms/BattleshipsInABoard)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
