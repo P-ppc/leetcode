@@ -289,6 +289,7 @@ All solutions will be accepted!
 |537|[Complex Number Multiplication](https://leetcode-cn.com/problems/complex-number-multiplication/description/)|[java/py/js](./algorithms/ComplexNumberMultiplication)|Medium|
 |228|[Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/description/)|[java/py/js](./algorithms/SummaryRanges)|Medium|
 |890|[Find And Replace Pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/description/)|[java/py/js](./algorithms/FindAndReplacePattern)|Medium|
+|48|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/description/)|[java/py/js](./algorithms/RotateImage)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
