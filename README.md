@@ -290,6 +290,7 @@ All solutions will be accepted!
 |228|[Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/description/)|[java/py/js](./algorithms/SummaryRanges)|Medium|
 |890|[Find And Replace Pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/description/)|[java/py/js](./algorithms/FindAndReplacePattern)|Medium|
 |48|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/description/)|[java/py/js](./algorithms/RotateImage)|Medium|
+|74|[Search A 2d Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/description/)|[java/py/js](./algorithms/SearchA2dMatrix)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
