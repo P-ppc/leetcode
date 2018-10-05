@@ -291,6 +291,7 @@ All solutions will be accepted!
 |890|[Find And Replace Pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/description/)|[java/py/js](./algorithms/FindAndReplacePattern)|Medium|
 |48|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/description/)|[java/py/js](./algorithms/RotateImage)|Medium|
 |74|[Search A 2d Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/description/)|[java/py/js](./algorithms/SearchA2dMatrix)|Medium|
+|153|[Find Minimum In Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/)|[java/py/js](./algorithms/FindMinimumInRotatedSortedArray)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
