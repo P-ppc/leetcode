@@ -292,6 +292,7 @@ All solutions will be accepted!
 |48|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/description/)|[java/py/js](./algorithms/RotateImage)|Medium|
 |74|[Search A 2d Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/description/)|[java/py/js](./algorithms/SearchA2dMatrix)|Medium|
 |153|[Find Minimum In Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/)|[java/py/js](./algorithms/FindMinimumInRotatedSortedArray)|Medium|
+|34|[Find First And Last Position Of Element In Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[java/py/js](./algorithms/FindFirstAndLastPositionOfElementInSortedArray)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
