@@ -295,6 +295,7 @@ All solutions will be accepted!
 |34|[Find First And Last Position Of Element In Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[java/py/js](./algorithms/FindFirstAndLastPositionOfElementInSortedArray)|Medium|
 |75|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/description/)|[java/py/js](./algorithms/SortColors)|Medium|
 |623|[Add One Row To Tree](https://leetcode-cn.com/problems/add-one-row-to-tree/description/)|[java/py/js](./algorithms/AddOneRowToTree)|Medium|
+|513|[Find Bottom Left Tree Value](https://leetcode-cn.com/problems/find-bottom-left-tree-value/description/)|[java/py/js](./algorithms/FindBottomLeftTreeValue)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
