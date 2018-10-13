@@ -300,6 +300,7 @@ All solutions will be accepted!
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/)|[java/py/js](./algorithms/BinaryTreeZigzagLevelOrderTraversal)|Medium|
 |134|[Gas Station](https://leetcode-cn.com/problems/gas-station/description/)|[java/py/js](./algorithms/GasStation)|Medium|
 |238|[Product Of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/description/)|[java/py/js](./algorithms/ProductOfArrayExceptSelf)|Medium|
+|896|[Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/description/)|[java/py/js](./algorithms/MonotonicArray)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
