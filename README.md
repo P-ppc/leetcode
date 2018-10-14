@@ -301,6 +301,7 @@ All solutions will be accepted!
 |134|[Gas Station](https://leetcode-cn.com/problems/gas-station/description/)|[java/py/js](./algorithms/GasStation)|Medium|
 |238|[Product Of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/description/)|[java/py/js](./algorithms/ProductOfArrayExceptSelf)|Medium|
 |896|[Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/description/)|[java/py/js](./algorithms/MonotonicArray)|Easy|
+|739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/description/)|[java/py/js](./algorithms/DailyTemperatures)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
