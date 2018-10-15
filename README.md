@@ -302,6 +302,7 @@ All solutions will be accepted!
 |238|[Product Of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/description/)|[java/py/js](./algorithms/ProductOfArrayExceptSelf)|Medium|
 |896|[Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/description/)|[java/py/js](./algorithms/MonotonicArray)|Easy|
 |739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/description/)|[java/py/js](./algorithms/DailyTemperatures)|Medium|
+|921|[Minimum Add To Make Parentheses Valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/description/)|[java/py/js](./algorithms/MinimumAddToMakeParenthesesValid)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
