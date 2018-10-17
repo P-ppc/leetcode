@@ -308,6 +308,7 @@ All solutions will be accepted!
 |701|[Insert Into A Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/description/)|[java/py/js](./algorithms/InsertIntoABinarySearchTree)|Medium|
 |165|[Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/description/)|[java/py/js](./algorithms/CompareVersionNumbers)|Medium|
 |8|[String To Integer Atoi](https://leetcode-cn.com/problems/string-to-integer-atoi/description/)|[java/py/js](./algorithms/StringToIntegerAtoi)|Medium|
+|299|[Bulls And Cows](https://leetcode-cn.com/problems/bulls-and-cows/description/)|[java/py/js](./algorithms/BullsAndCows)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
