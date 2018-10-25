@@ -311,6 +311,7 @@ All solutions will be accepted!
 |8|[String To Integer Atoi](https://leetcode-cn.com/problems/string-to-integer-atoi/description/)|[java/py/js](./algorithms/StringToIntegerAtoi)|Medium|
 |299|[Bulls And Cows](https://leetcode-cn.com/problems/bulls-and-cows/description/)|[java/py/js](./algorithms/BullsAndCows)|Medium|
 |394|[Decode String](https://leetcode-cn.com/problems/decode-string/description/)|[java/py/js](./algorithms/DecodeString)|Medium|
+|938|[Range Sum Of Bst](https://leetcode-cn.com/problems/range-sum-of-bst/description/)|[java/py/js](./algorithms/RangeSumOfBst)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
