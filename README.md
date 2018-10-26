@@ -312,6 +312,7 @@ All solutions will be accepted!
 |299|[Bulls And Cows](https://leetcode-cn.com/problems/bulls-and-cows/description/)|[java/py/js](./algorithms/BullsAndCows)|Medium|
 |394|[Decode String](https://leetcode-cn.com/problems/decode-string/description/)|[java/py/js](./algorithms/DecodeString)|Medium|
 |938|[Range Sum Of Bst](https://leetcode-cn.com/problems/range-sum-of-bst/description/)|[java/py/js](./algorithms/RangeSumOfBst)|Medium|
+|71|[Simplify Path](https://leetcode-cn.com/problems/simplify-path/description/)|[java/py/js](./algorithms/SimplifyPath)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
