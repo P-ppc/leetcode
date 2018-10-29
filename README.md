@@ -315,6 +315,7 @@ All solutions will be accepted!
 |71|[Simplify Path](https://leetcode-cn.com/problems/simplify-path/description/)|[java/py/js](./algorithms/SimplifyPath)|Medium|
 |451|[Sort Characters By Frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency/description/)|[java/py/js](./algorithms/SortCharactersByFrequency)|Medium|
 |215|[Kth Largest Element In An Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/)|[java/py/js](./algorithms/KthLargestElementInAnArray)|Medium|
+|347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/description/)|[java/py/js](./algorithms/TopKFrequentElements)|Medium|
 
 # Database
 |#|Title|Solution|Difficulty|
