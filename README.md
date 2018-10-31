@@ -323,3 +323,4 @@ All solutions will be accepted!
 |:-|:-|:-|:-|
 |596|[Big Countries](https://leetcode-cn.com/problems/big-countries/description/)|[mysql](./database/BigCountries)|Easy|
 |182|[Duplicate Emails](https://leetcode-cn.com/problems/duplicate-emails/description/)|[mysql](./database/DuplicateEmails)|Easy|
+|596|[Classes More Than 5 Students](https://leetcode-cn.com/problems/classes-more-than-5-students/description/)|[mysql](./ClassesMoreThan5Students)|Easy|
