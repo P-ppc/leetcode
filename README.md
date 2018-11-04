@@ -327,3 +327,4 @@ All solutions will be accepted!
 |620|[Not Boring Movies](https://leetcode-cn.com/problems/not-boring-movies/description/)|[mysql](./database/NotBoringMovies)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/description/)|[mysql](./database/DeleteDuplicateEmails)|Easy|
 |627|[Swap Salary](https://leetcode-cn.com/problems/swap-salary/description/)|[mysql](./database/SwapSalary)|Easy|
+|175|[Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/description/)|[mysql](./database/CombineTwoTables)|Easy|
