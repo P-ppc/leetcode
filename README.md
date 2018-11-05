@@ -328,3 +328,4 @@ All solutions will be accepted!
 |196|[Delete Duplicate Emails](https://leetcode-cn.com/problems/delete-duplicate-emails/description/)|[mysql](./database/DeleteDuplicateEmails)|Easy|
 |627|[Swap Salary](https://leetcode-cn.com/problems/swap-salary/description/)|[mysql](./database/SwapSalary)|Easy|
 |175|[Combine Two Tables](https://leetcode-cn.com/problems/combine-two-tables/description/)|[mysql](./database/CombineTwoTables)|Easy|
+|183|[Customers Who Never Order](https://leetcode-cn.com/problems/customers-who-never-order/description/)|[mysql](./database/CustomersWhoNeverOrder)|Easy|
