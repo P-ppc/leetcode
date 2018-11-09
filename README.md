@@ -332,3 +332,4 @@ All solutions will be accepted!
 |197|[Rising Temperature](https://leetcode-cn.com/problems/rising-temperature/description/)|[mysql](./database/RisingTemperature)|Easy|
 |181|[Employees Earning More Than Their Managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/description/)|[mysql](./database/EmployeesEarningMoreThanTheirManagers)|Easy|
 |176|[Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/description/)|[mysql](./database/SecondHighestSalary)|Easy|
+|626|[Exchange Seats](https://leetcode-cn.com/problems/exchange-seats/description/)|[mysql](./database/ExchangeSeats)|Medium|
