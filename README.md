@@ -334,3 +334,4 @@ All solutions will be accepted!
 |176|[Second Highest Salary](https://leetcode-cn.com/problems/second-highest-salary/description/)|[mysql](./database/SecondHighestSalary)|Easy|
 |626|[Exchange Seats](https://leetcode-cn.com/problems/exchange-seats/description/)|[mysql](./database/ExchangeSeats)|Medium|
 |178|[Rank Scores](https://leetcode-cn.com/problems/rank-scores/description/)|[mysql](./database/RankScore)|Medium|
+|180|[Consecutive Numbers](https://leetcode-cn.com/problems/consecutive-numbers/description/)|[mysql](./database/ConsecutiveNumbers)|Medium|
