@@ -336,3 +336,4 @@ All solutions will be accepted!
 |178|[Rank Scores](https://leetcode-cn.com/problems/rank-scores/description/)|[mysql](./database/RankScore)|Medium|
 |180|[Consecutive Numbers](https://leetcode-cn.com/problems/consecutive-numbers/description/)|[mysql](./database/ConsecutiveNumbers)|Medium|
 |177|[Nth Highest Salary](https://leetcode-cn.com/problems/nth-highest-salary/description/)|[mysql](./database/NthHighestSalary)|Medium|
+|184|[Department Highest Salary](https://leetcode-cn.com/problems/department-highest-salary/description/)|[mysql](./database/DepartmentHighestSalary)|Medium|
